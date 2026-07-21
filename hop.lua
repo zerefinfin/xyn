@@ -1,8 +1,8 @@
 task.wait(5)
 
 -- Configurações GitHub
-local SERVERS_URL = "https://raw.githubusercontent.com/zerefinfin/xyn/refs/heads/main/servers.json?token=GHSAT0AAAAAAEDMZ63DQUEZAMUQZQDM7OZ22S7THOQ"
-local ACCOUNTS_URL = "https://raw.githubusercontent.com/zerefinfin/xyn/refs/heads/main/accounts.json?token=GHSAT0AAAAAAEDMZ63D27UKHKK7WBPLTEOE2S7THQA"
+local SERVERS_URL = "https://raw.githubusercontent.com/zerefinfin/xyn/refs/heads/main/servers.json"
+local ACCOUNTS_URL = "https://raw.githubusercontent.com/zerefinfin/xyn/refs/heads/main/accounts.json"
 
 -- Configurações locais
 local PLACE_ID = tostring(game.PlaceId)
