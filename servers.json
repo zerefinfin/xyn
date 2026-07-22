@@ -1799,6 +1799,606 @@
             "jobId": "9b45d7d3-d05a-455d-bdf1-e0f98c9daebf",
             "players": 10,
             "fetched_at": "2026-07-22T00:07:07.361740"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "bf261bd8-bfb6-496a-a92d-4afd49c5febc",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.927918"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "2cc22f1b-133e-474a-8fdd-edc3497d3f62",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.933101"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "e74d2f96-cf70-4950-b863-4440fe520760",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.937965"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "d73e5c0a-58ac-44dd-a5b4-8fa68a6ae9db",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.943478"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "3eb100b5-2812-400d-8dc2-bb0466c3c16d",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.948188"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "fa992004-9182-4541-a2a6-9569c88bffdb",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.952739"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "ca65bb79-dd6a-4bb4-b3b1-38a57d784349",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.958234"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "1e0f54a3-6f1d-4eab-851f-e01a98d3f891",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.963672"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "1402cda1-12cb-4c2c-847b-35f812410d5c",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.969493"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "18ce9200-1e87-44aa-a75e-c543fcc56cf4",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.974195"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "d1a770b8-e0f5-4b9d-96f7-153ed67b9a59",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.979589"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "a4a79b55-c4c9-4454-9991-cc7e9e44aae3",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.984378"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "1ec36144-a544-4400-aec5-597c16b8b8bd",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.989832"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "14d78bd9-e73e-4f4b-a074-8c7123ca6390",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:39.996727"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "a36b478b-b875-45e8-845b-02c683e06a09",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:40.002478"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "1ffd1828-8835-43ac-9ec8-6d537fa9bf65",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:40.007768"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "e0112566-d388-4987-af7f-5cc69f5b0893",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:40.014759"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "539f3b21-c53e-468f-886d-2e06770e1bb8",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:40.019976"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "ca15b588-cc7b-4767-8369-6dd1efeedbcf",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:40.026106"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "732bf0b4-920e-4665-95bd-3d897aa3b1da",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:40.031688"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "033b6abc-5b4d-47c9-a5b6-8819948b1ff3",
+            "players": 10,
+            "fetched_at": "2026-07-22T00:20:40.036689"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "9c20ed53-1f8e-4e18-a492-37f034398046",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.041443"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "a44293fd-a363-44ed-871b-e238ed5b128a",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.048401"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "386b6ef0-1d0b-44e0-ace9-5e744366979c",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.053330"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "23c2286d-9d00-4dce-a617-e10e22d21425",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.060208"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "7a48848d-f0ce-46d7-befb-112dd4227257",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.065540"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "e382fa6d-2af3-4ee7-a967-21b3ea548503",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.071959"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "45ae8b74-3849-4275-92e9-64d644efa284",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.078379"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "a72eda2f-4c22-41eb-bcb6-9993cb9ba6fb",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.084158"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "3a0b6413-adf0-42f3-ba75-cdb7327ca874",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.090635"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "8429be56-3d2f-4aaa-bbf4-80615c5d58c1",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.096560"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "4bfe6a08-4972-47ff-b010-ca195cd0344c",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.101503"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "9dd07697-baa2-491f-87e1-d37a22a8bd13",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.108475"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "258cbe57-4430-4ad5-857e-a78321607172",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.114354"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "02e050bb-133b-4e11-a5f4-4078eac760fa",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.120215"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "e358d5bb-ba36-48bf-9cf3-5fbbcba6c5cf",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.126207"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "5d5ef3f7-45ed-4117-98a3-22f0888a8ede",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.132420"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "ce2aa920-274d-4237-85c9-d90ad3cd8b28",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.138334"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "4a599dd8-830b-426f-b932-30cd8925a9c1",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.144059"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "5491e68c-766e-46a1-9386-046863f6d66f",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.150006"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "6e52447c-f7f0-478f-bf43-03c16e06fc95",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.158707"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "a9d00b59-8512-496b-a781-65762707f1c7",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.170203"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "8bee0ed2-86ba-44ea-a152-0688324f9d26",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.181561"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "820f6ab5-c81d-4c57-8dcc-12dabdbb412b",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.189279"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "2a23d99c-97d6-456f-be60-751b90512aa1",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.198939"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "52a378a6-ff27-4172-844c-e60198eb435f",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.205024"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "3a2ba835-90bb-48da-aacc-5d0a6d2721cf",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.212367"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "4fb6aa87-d5ec-414d-b3e9-3ff4b46c085c",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.218016"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "4f0b9816-6d30-43fd-bda1-cadb36c556e9",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.223198"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "8cddf0a0-b59e-4cb1-8268-31da7842b2d1",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.230379"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "14d42570-360d-423e-8277-328763921c62",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.235619"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "5d60b74b-2a4e-41a8-9d2d-956897bee1d4",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.243701"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "24f78ca4-2911-4253-91f4-0559e291546e",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.252518"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "c4900d78-32b0-485d-adb9-88defe2ddeae",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.258989"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "e356c353-a6eb-42ec-af5c-bdfdeb923e87",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.269640"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "1b7fae8f-44cd-4d19-b5c6-cbd8c3e52a54",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.276538"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "41e98155-1292-4011-b5a7-7c034b066397",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.284552"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "bd75e07d-8d85-4b46-ab66-5bbc22414fb9",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:20:40.290430"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "4c55c291-e4a3-4695-8a55-49d637b08387",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.094106"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "014e707e-f128-45c6-a5a2-ae820fb40cc3",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.100889"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "02e6a72c-68d2-4cf0-ac07-625cca9e2286",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.106255"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "0216b815-7964-438a-8f83-17965425c474",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.112675"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "dd829792-d0d6-462b-884c-25852353eb42",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.117718"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "7719a545-3575-4cef-94a3-6bed401bf9df",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.122319"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "80cae6ee-6c5b-4160-bb57-0ef717a20e0c",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.129092"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "8be68a14-6c74-45fd-ab0d-275cc4e7afd4",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.133584"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "b49589d1-d241-4e40-9c4c-67abcdade5af",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.138967"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "c40f224a-9aaa-4791-b1c9-52157f661f34",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.145718"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "86dbaad1-bd68-4547-9d83-6874d5d8b27e",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.151481"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "b3002d2d-0ae1-4d23-b465-2e6a4166b7a2",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.159531"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "42bea327-0b20-4268-99be-e3789fcf178b",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.164700"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "ac47f4ce-50dd-442d-9369-6a01bbeb8b8e",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.169615"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "f6f34781-ab50-4882-9762-61b91dc716c7",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.176059"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "bfb221f1-7172-4b6c-aa24-47a194ac277d",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.181075"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "68df4172-9f5f-4758-98ef-2a2ab2f23e65",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.186311"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "d282afc5-6f37-4c02-b6b9-34cf395ec87a",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.191489"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "e4082762-6ab4-443c-90a5-807e89ef5d39",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.197428"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "5c94d52b-1b6f-41ab-b2e6-f143acc51e52",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.206300"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "dff9f3ba-1bf8-466f-bef7-3090e66a3535",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.213789"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "79bcc6b0-183d-4db1-9275-f80963c6b2a8",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.220417"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "389fad59-0fc5-4093-86bf-41855dfd5047",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.226610"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "3925845e-11bb-4c4f-8924-a770bed57335",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.232537"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "57c8e19b-e3a7-4b5c-9b76-d17a26a4794f",
+            "players": 9,
+            "fetched_at": "2026-07-22T00:21:54.237900"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "50af2d70-11f8-4041-b0b1-d934fd6d1120",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.244634"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "3b446e36-38b8-42b4-82de-38ba0b61399d",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.251045"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "1bcea375-8988-436a-ad3e-7a5a90edbad9",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.257352"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "2221f23e-d630-47dc-ba16-278679b88885",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.264633"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "fa839837-ccc6-4158-85b1-934f10c0703b",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.270267"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "c8cb00b2-e0d4-4e38-86f3-5dc1326cfbca",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.277643"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "fe2c371c-4865-4b65-b189-401f47d6e3c9",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.283263"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "4d082039-1299-4d22-9aa2-8c998c5d186b",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.294948"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "5fc64869-3f98-4e57-9656-1725299f29cd",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.300553"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "b7419c38-c09a-4b76-9baa-7e53dea989c4",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.306961"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "f3c6ccb3-ba94-48f8-ae9e-3e50ff2d1491",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.313012"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "c4c56b5b-bb70-4cfd-bc43-b262ff02045b",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.318721"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "8629d990-8ac9-40a3-bebf-a5e98d05bee4",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.326145"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "6678b05e-85c9-4bba-94f0-0e2be14f69ac",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.331588"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "6166e528-9a31-4c3e-8049-e3b633eae2bb",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.339631"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "26d11a04-f810-47b2-bc7e-c4613bd84caa",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.346321"
+        },
+        {
+            "game_id": 18668065416,
+            "jobId": "2c0caa11-9ca9-434a-a0b8-c8f7821decce",
+            "players": 8,
+            "fetched_at": "2026-07-22T00:21:54.351883"
         }
     ],
     "115110570222234": [
